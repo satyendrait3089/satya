@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="122867" started-at="2017-03-11T04:19:33Z" finished-at="2017-03-11T04:21:35Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="122867" started-at="2017-03-11T04:19:33Z" finished-at="2017-03-11T04:21:35Z">
+      <class name="Executer.Executer">
+        <test-method status="PASS" signature="beforsuit()[pri:0, instance:Executer.Executer@1341870]" name="beforsuit" is-config="true" duration-ms="6857" started-at="2017-03-11T09:49:26Z" finished-at="2017-03-11T09:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforsuit -->
+        <test-method status="PASS" signature="userStorey1()[pri:0, instance:Executer.Executer@1341870]" name="userStorey1" duration-ms="38669" started-at="2017-03-11T09:49:33Z" finished-at="2017-03-11T09:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStorey1 -->
+        <test-method status="PASS" signature="userStorey2()[pri:0, instance:Executer.Executer@1341870]" name="userStorey2" duration-ms="36102" started-at="2017-03-11T09:50:11Z" finished-at="2017-03-11T09:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStorey2 -->
+        <test-method status="PASS" signature="userStorey3()[pri:0, instance:Executer.Executer@1341870]" name="userStorey3" duration-ms="22239" started-at="2017-03-11T09:50:47Z" finished-at="2017-03-11T09:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStorey3 -->
+        <test-method status="PASS" signature="userStorey4()[pri:0, instance:Executer.Executer@1341870]" name="userStorey4" duration-ms="25793" started-at="2017-03-11T09:51:10Z" finished-at="2017-03-11T09:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStorey4 -->
+        <test-method status="PASS" signature="afterSuit()[pri:0, instance:Executer.Executer@1341870]" name="afterSuit" is-config="true" duration-ms="1046" started-at="2017-03-11T09:51:35Z" finished-at="2017-03-11T09:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- Executer.Executer -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
